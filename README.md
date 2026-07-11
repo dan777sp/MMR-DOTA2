@@ -19,23 +19,26 @@ Este caderno temático foi desenvolvido no NotebookLM com o objetivo de consolid
 
 ## 📚 2. Curadoria de Fontes
 
-Para este projeto, foram mapeadas e indexadas as seguintes fontes abertas, carregadas diretamente no ecossistema do NotebookLM para a consolidação deste guia:
+Todas as fontes selecionadas para este estudo foram carregadas e estão publicamente disponíveis para consulta e validação diretamente no painel de fontes do projeto:
 
+*   🌐 **Acesse o acervo completo de fontes em:** [NotebookLM - Dota 2 MMR Guide (2026)](https://google.com)
+
+### 🗂️ Detalhamento dos Documentos Enviados:
 1. **Metodología Científica para la Escalada de MMR**
-   - *Formato:* Arquivo Local (`.md`)
-   - *Acesso:* Disponibilizado nativamente no diretório do projeto como [/assets/metodologia-mmr.md](https://github.com) para auditoria do ecossistema de pareamento competitivo.
-2. **Dota 2 Rank Calibration & MMR Guide 2026**
-   - *Formato:* Link Web (`URL`)
-   - *Acesso:* Conteúdo matemático de calibração indexado através do [Portal de Guias do Immortal Boost](https://immortalboost.com).
-3. **How to Analyze Your Dota 2 Matches with Replays**
-   - *Formato:* Link Web / Transcrição (`URL`)
-   - *Acesso:* Metodologia cronológica de revisão de partidas obtida via [Plataforma Educacional do BSJ Dota](https://bsjdota.com).
+   - *Formato:* Arquivo Markdown (`.md`)
+   - *Conteúdo:* Análise técnica autoral sobre o ecossistema de matchmaking em 2026.
+2. **Dota 2 Rank Calibration & MMR Guide 2026 (Immortal Boost)**
+   - *Formato:* Documento de texto / Link da Web
+   - *Conteúdo:* Guia detalhado explicando o funcionamento matemático do sistema de calibração.
+3. **How to Analyze Your Dota 2 Matches with Replays (BSJ)**
+   - *Formato:* Anotações estruturadas de vídeo
+   - *Conteúdo:* Metodologia passo a passo para revisão cronológica de partidas.
 4. **Dota Patch Notes - 7.41d**
-   - *Formato:* Documento Técnico (`URL`)
-   - *Acesso:* Notas oficiais de balanceamento e dados de jogabilidade extraídos diretamente do [Repositório de Atualizações da Valve Corporation](https://www.dota2.com/patches).
-5. **3 Dicas Simples que REALMENTE Fazem Seu MMR Subir**
-   - *Formato:* Transcrição de Mídia (`.txt`)
-   - *Acesso:* Compilado técnico de diretrizes estruturado com base nas transmissões ao vivo do pro-player brasileiro na [Comunidade Oficial do Lelis Dota](https://twitch.tv).
+   - *Formato:* Documentação de texto
+   - *Conteúdo:* Notas oficiais das alterações de equilíbrio e balanceamento da Valve.
+5. **3 Dicas Simples que REALMENTE Fazem Seu MMR Subir (Lelis)**
+   - *Formato:* Transcrição de mídia (`.txt`)
+   - *Conteúdo:* Diretrizes práticas de um jogador profissional sobre Hero Pool e comunicação.
 
 ---
 
