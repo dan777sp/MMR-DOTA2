@@ -1,8 +1,4 @@
-# MMR-DOTA2
-Guia de Subida de MMR no Dota 2 (2026)
-
 # 🎮 Mini-guia de Estudos - Escalada de MMR no Dota 2 (2026)
-
 
 <!-- Dracula Theme Badges Nativas (Imunes a Bloqueios) -->
 <table>
@@ -10,14 +6,13 @@ Guia de Subida de MMR no Dota 2 (2026)
     <td><kbd><font color="#BD93F9">🎮 Dota 2</font></kbd></td>
     <td><code>Patch 7.41d</code></td>
     <td><kbd><font color="#50FA7B">🤖 NotebookLM</font></kbd></td>
-    <td><code>Google AI</code></td>
+    <td><a href="https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d" target="_blank"><code>Acessar Caderno de Estudos ↗</code></a></td>
     <td><kbd><font color="#FF79C6">🏆 MMR Grind</font></kbd></td>
     <td><code>Immortal Chaser</code></td>
   </tr>
 </table>
 
-
-Este caderno temático foi desenvolvido no **NotebookLM** com o objetivo de consolidar as estratégias mais eficazes para subir de ranking no Dota 2 durante o ano de 2026. O foco está em compreender as mudanças mecânicas do Patch 7.41d, dominar a análise de replays e fortalecer a mentalidade competitiva.
+Este caderno temático foi desenvolvido no [NotebookLM](https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d) com o objetivo de consolidar as estratégias mais eficazes para subir de ranking no Dota 2 durante o ano de 2026. O foco está em compreender as mudanças mecânicas do Patch 7.41d, dominar a análise de replays e fortalecer a mentalidade competitiva.
 
 ---
 
@@ -101,7 +96,5 @@ Copie e cole os comandos abaixo no seu chat sempre que precisar revisar:
 "Crie um roteiro de treinamento de 20 minutos em lobby solo para melhorar meu last hit com [HERÓI]."
 ```
 
-Link do projeto: <a href="https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d" target="_blank">
-
 ---
-<p align="center"> 💜💜💜💜💜💜 </p>
+<p align="center"> 💜💜💜💜💜💜💜 Hospedado no <a href="https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d" target="_blank">
