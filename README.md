@@ -1,28 +1,19 @@
 # 🎮 Mini-guia de Estudos - Escalada de MMR no Dota 2 (2026)
 
-<!-- Dracula Theme Badges Nativas (Imunes a Bloqueios) -->
-<table>
-  <tr>
-    <td><kbd><font color="#BD93F9">🎮 Dota 2</font></kbd></td>
-    <td><code>Patch 7.41d</code></td>
-    <td><kbd><font color="#50FA7B">🤖 NotebookLM</font></kbd></td>
-    <td><a href="https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d" target="_blank"><code>Acessar Caderno de Estudos ↗</code></a></td>
-    <td><kbd><font color="#FF79C6">🏆 MMR Grind</font></kbd></td>
-    <td><code>Immortal Chaser</code></td>
-  </tr>
-</table>
-
-Este caderno temático foi desenvolvido no [NotebookLM](https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d) com o objetivo de consolidar as estratégias mais eficazes para subir de ranking no Dota 2 durante o ano de 2026. O foco está em compreender as mudanças mecânicas do Patch 7.41d, dominar a análise de replays e fortalecer a mentalidade competitiva.
+> ### 📘 LINK DO CADERNO DE ESTUDOS
+> CLIQUE AQUI PARA ACESSAR ➡️ [NotebookLM - Dota 2 MMR Guide (2026)](https://google.com)
 
 ---
 
 ## 🎯 1. Contexto e Objetivos
 
+Este caderno temático foi desenvolvido no NotebookLM com o objetivo de consolidar as estratégias mais eficazes para subir de ranking no Dota 2 durante o ano de 2026. O foco está em compreender as mudanças mecânicas do Patch 7.41d, dominar a análise de replays e fortalecer a mentalidade competitiva.
+
 ### 🚀 Objetivos de Estudo
-- [x] **Calibração:** Entender o sistema de *Rank Confidence* e funcionamento dos números "sob o capô".
-- [x] **Meta 2026:** Identificar os heróis meta do Patch 7.41d após a remoção do sistema de Facetas.
-- [x] **Análise Prática:** Criar uma rotina sistemática de análise de replays baseada em tempo.
-- [x] **Mentalidade:** Desenvolver inteligência emocional para evitar o *tilt* e lidar com a toxicidade.
+*   **Calibração:** Entender o sistema de *Rank Confidence* e funcionamento dos números "sob o capô".
+*   **Meta 2026:** Identificar os heróis meta do Patch 7.41d após a remoção do sistema de Facetas.
+*   **Análise Prática:** Criar uma rotina sistemática de análise de replays baseada em tempo.
+*   **Mentalidade:** Desenvolver inteligência emocional para evitar o *tilt* e lidar com a toxicidade.
 
 ---
 
@@ -50,7 +41,7 @@ Destaques de como interagi com a IA para extrair as melhores respostas e como su
 
 > 💬 **Prompt Estratégico 2:** *"Qual é a checklist exata para eu analisar meu próprio replay de carry?"*
 > - **Resposta da IA:** Gerou um guia dividido por tempo (0-10 min, 10-25 min, etc.) focado em farm e picos de poder.
-> - **⚠️ Cicatriz (Solução):** Dificuldade em obter métricas numéricas precisas. Resolvi perguntando: *"Quais são os benchmarks de ouro e XP para jogadores Immortal?"*. Isso trouxe o dado crucial de **10.000 de Net Worth aos 20 minutos** para heróis core.
+> - **⚠️ Cicatriz (Solução):** Dificuldade em obter métricas numéricas precisas. Resolvi perguntando: *"Quais são os benchmarks de ouro e XP para jogadores Immortal?"*. Isso trouxe o dado crucial de **10.000 de Net Worth aos 20 minutes** para heróis core.
 
 ---
 
@@ -97,4 +88,4 @@ Copie e cole os comandos abaixo no seu chat sempre que precisar revisar:
 ```
 
 ---
-<p align="center"> 💜💜💜💜💜💜💜 Hospedado no <a href="https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d" target="_blank">
+<p align="center"> 💜💜💜💜💜💜💜 </p>
