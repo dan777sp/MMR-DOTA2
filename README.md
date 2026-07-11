@@ -3,10 +3,12 @@ Guia de Subida de MMR no Dota 2 (2026)
 
 # 🎮 Mini-guia de Estudos - Escalada de MMR no Dota 2 (2026)
 
-<!-- Dracula Theme Badges Corrigidas -->
-<img src="https://shields.io" alt="Dota 2">
-<img src="https://shields.io" alt="NotebookLM">
-<img src="https://shields.io" alt="MMR Grind">
+<!-- Dracula Theme Badges Prontas (SVG) -->
+<p align="left">
+  <img src="https://shields.io" alt="Dota 2">
+  <img src="https://shields.io" alt="NotebookLM">
+  <img src="https://shields.io" alt="MMR Grind">
+</p>
 
 
 Este caderno temático foi desenvolvido no **NotebookLM** com o objetivo de consolidar as estratégias mais eficazes para subir de ranking no Dota 2 durante o ano de 2026. O foco está em compreender as mudanças mecânicas do Patch 7.41d, dominar a análise de replays e fortalecer a mentalidade competitiva.
@@ -94,4 +96,4 @@ Copie e cole os comandos abaixo no seu chat sempre que precisar revisar:
 ```
 
 ---
-<p align="center">Desenvolvido com 💜 focado no Dracula Theme e na subida de ranking em 2026.</p>
+<p align="center"> 💜💜💜💜💜💜 </p>
