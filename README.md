@@ -19,15 +19,23 @@ Este caderno temático foi desenvolvido no NotebookLM com o objetivo de consolid
 
 ## 📚 2. Curadoria de Fontes
 
-As seguintes fontes principais foram selecionadas e alimentadas na IA para este projeto:
+Para este projeto, foram mapeadas e indexadas as seguintes fontes abertas, carregadas diretamente no ecossistema do NotebookLM para a consolidação deste guia:
 
-| Fonte | Tipo de Conteúdo | Foco Principal |
-| :--- | :--- | :--- |
-| **Metodología Científica para la Escalada de MMR** | Markdown | Análise técnica do ecossistema de matchmaking em 2026. |
-| **Dota 2 Rank Calibration & MMR Guide 2026** | Immortal Boost | Detalhes matemáticos da calibração e ganho de pontos. |
-| **How to Analyze Your Dota 2 Matches with Replays** | BSJ | Metodologia passo a passo para revisão de partidas de cores. |
-| **Dota Patch Notes - 7.41d** | Documentação | Alterações oficiais de equilíbrio e balanceamento. |
-| **3 Dicas Simples que REALMENTE Fazem Seu MMR Subir** | Lelis | Dicas práticas sobre Hero Pool reduzida e comunicação. |
+1. **Metodología Científica para la Escalada de MMR**
+   - *Formato:* Arquivo Local (`.md`)
+   - *Acesso:* Disponibilizado nativamente no diretório do projeto como [/assets/metodologia-mmr.md](https://github.com) para auditoria do ecossistema de pareamento competitivo.
+2. **Dota 2 Rank Calibration & MMR Guide 2026**
+   - *Formato:* Link Web (`URL`)
+   - *Acesso:* Conteúdo matemático de calibração indexado através do [Portal de Guias do Immortal Boost](https://immortalboost.com).
+3. **How to Analyze Your Dota 2 Matches with Replays**
+   - *Formato:* Link Web / Transcrição (`URL`)
+   - *Acesso:* Metodologia cronológica de revisão de partidas obtida via [Plataforma Educacional do BSJ Dota](https://bsjdota.com).
+4. **Dota Patch Notes - 7.41d**
+   - *Formato:* Documento Técnico (`URL`)
+   - *Acesso:* Notas oficiais de balanceamento e dados de jogabilidade extraídos diretamente do [Repositório de Atualizações da Valve Corporation](https://www.dota2.com/patches).
+5. **3 Dicas Simples que REALMENTE Fazem Seu MMR Subir**
+   - *Formato:* Transcrição de Mídia (`.txt`)
+   - *Acesso:* Compilado técnico de diretrizes estruturado com base nas transmissões ao vivo do pro-player brasileiro na [Comunidade Oficial do Lelis Dota](https://twitch.tv).
 
 ---
 
