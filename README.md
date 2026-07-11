@@ -101,5 +101,7 @@ Copie e cole os comandos abaixo no seu chat sempre que precisar revisar:
 "Crie um roteiro de treinamento de 20 minutos em lobby solo para melhorar meu last hit com [HERÓI]."
 ```
 
+Link do projeto: <a href="https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d" target="_blank">
+
 ---
 <p align="center"> 💜💜💜💜💜💜 </p>
