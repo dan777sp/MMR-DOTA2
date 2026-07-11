@@ -1,7 +1,7 @@
 # 🎮 Mini-guia de Estudos - Escalada de MMR no Dota 2 (2026)
 
 > ### 📘 LINK DO CADERNO DE ESTUDOS
-> CLIQUE AQUI PARA ACESSAR ➡️ [NotebookLM - Dota 2 MMR Guide (2026)](https://google.com)
+> CLIQUE AQUI PARA ACESSAR ➡️ [NotebookLM - Dota 2 MMR Guide (2026)]([https://google.com](https://notebooklm.google.com/notebook/db207685-0660-4731-84db-27965a31971d))
 
 ---
 
