@@ -4,9 +4,17 @@ Guia de Subida de MMR no Dota 2 (2026)
 # 🎮 Mini-guia de Estudos - Escalada de MMR no Dota 2 (2026)
 
 
-![Dota 2](https://shields.io)
-![NotebookLM](https://shields.io)
-![MMR Grind](https://shields.io)
+<!-- Dracula Theme Badges Nativas (Imunes a Bloqueios) -->
+<table>
+  <tr>
+    <td><kbd><font color="#BD93F9">🎮 Dota 2</font></kbd></td>
+    <td><code>Patch 7.41d</code></td>
+    <td><kbd><font color="#50FA7B">🤖 NotebookLM</font></kbd></td>
+    <td><code>Google AI</code></td>
+    <td><kbd><font color="#FF79C6">🏆 MMR Grind</font></kbd></td>
+    <td><code>Immortal Chaser</code></td>
+  </tr>
+</table>
 
 
 Este caderno temático foi desenvolvido no **NotebookLM** com o objetivo de consolidar as estratégias mais eficazes para subir de ranking no Dota 2 durante o ano de 2026. O foco está em compreender as mudanças mecânicas do Patch 7.41d, dominar a análise de replays e fortalecer a mentalidade competitiva.
