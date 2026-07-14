@@ -1,8 +1,8 @@
 # 🛡️ Dota 2 MMR Mastery: Guia Estratégico 2026 (Patch 7.41d)
 
 | Theme | Patch | Meta |
-| :---: | :---: | :---: |
-| ![Dracula](https://shields.io) | ![Patch](https://shields.io) | ![Meta](https://shields.io) |
+|:------:|:-----:|:----:|
+| ![Badge1](https://img.shields.io/badge/A-1-blue) | ![Badge2](https://img.shields.io/badge/B-2-green) | ![Badge3](https://img.shields.io/badge/C-3-orange) |
 
 Este repositório contém um caderno temático estruturado para jogadores que buscam a ascensão competitiva no Dota 2. O conteúdo utiliza metodologias de análise de dados, psicologia do desempenho e fundamentos mecânicos aplicados ao meta atual.
 
